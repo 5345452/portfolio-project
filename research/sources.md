@@ -150,8 +150,7 @@
                  
                  10:30 Success metrics
 
-                
-                11:07 Retargeting targeting 
+                 11:07 Retargeting targeting 
                 
                  12:40 Influenced Attribution 
                  
