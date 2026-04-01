@@ -30,37 +30,42 @@
 
 -Slow Installation of Extensions
 ## How I Solved Them
-    -Explored the interface and asked for AI's help
+-Explored the interface and asked for AI's help
 
-    #B2B SaaS Marketing Research Project
+## B2B SaaS Marketing Research Project
 
-    ## Topic:
+## Topic:
 
-    Youtube content strategy for B2B SaaS
+ Youtube content strategy for B2B SaaS
 
-    ## What I collected:
+## What I collected:
 
-    -Researched 10 SaaS marketing experts
+  -Researched 10 SaaS marketing experts from Youtube
 
-    -Collected Youtube insights
+  -Collected Youtube insights
 
-    -Analyzed growth strategies
+   -Analyzed growth strategies
 
-    ## Structure:
+ ## Structure:
 
-    -research/sources.md and expert list
+    I arranged the project into a research folder to keep everything clear 
 
-    -research/youtube- transcriptd and video insights
+    -sources.md contains all the experts and their content
+    
+    -Linkedin-posts includes content based on the research
 
-    -research/Linkedin-posts and Linkedin insights
+    -youtube-transcripts contains key timestamps from videos
 
-    -research/other and additional resources
+    -other includes any additional useful material
 
-    ## Why I chose this experts:
+ ## Why I chose this experts:
 
-    I selected these experts because they share practical insights on B2B SaaS marketing, including how to get your first customers, the strategies to use and how to grow your account
+    I selected these experts because they share practical insights on B2B SaaS marketing, 
+    including how to get your first customers, 
+    the strategies to use and how to grow your account.
 
-    They have experience as foinders, markerters and their content is what they have actually tried so it is practical rather than just theory
+    They have experience as foinders, markerters and their content is what they have actually tried so it is practical,
+    rather than just theory.
     
 
     
