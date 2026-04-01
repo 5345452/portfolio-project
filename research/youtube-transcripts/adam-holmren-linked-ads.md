@@ -1,8 +1,8 @@
 # Adam Holmgren - LinkedIn Ads Strategy
 
-## Link:## https://youtu.be/qy4FW_qglNo?si=GXIstd9lTUKuC9-A
+## Link: https://youtu.be/qy4FW_qglNo?si=GXIstd9lTUKuC9-A
 
-## Date:## 1/4/2026
+## Date: 1/4/2026
 
 ## Key Timestamps and Insights:
 
@@ -32,7 +32,7 @@
              
              - 13:06 Outro
 
-             ## Key Takeaways
+ ## Key Takeaways
 
              -LinkedIn Ads work best with structured campaigs.
 
