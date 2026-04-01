@@ -1,4 +1,4 @@
-# Adam Holmgren - LinkdIn Ads Strategy
+# Adam Holmgren - LinkedIn Ads Strategy
 
 ## Link:## https://youtu.be/qy4FW_qglNo?si=GXIstd9lTUKuC9-A
 
