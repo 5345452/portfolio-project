@@ -12,6 +12,8 @@ He argues that aggregators are valuable in the short term,
 but long term winners are those who control the interface and become the platforms
 
 **Key Takeaways**
+
+
 The real competitive advantage in AI is not the model,
 but owing the interface and customer relationship.
 Founder should focus on aggregating first, 
