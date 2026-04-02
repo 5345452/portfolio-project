@@ -1,6 +1,6 @@
 # Neil Pateel - LinkedIn Posts
 
-## Post 1: Ai Search and SEO Strategy
+## Post 1: AI Search and SEO Strategy
 
 **Summary**
 
